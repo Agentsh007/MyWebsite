@@ -1,1 +1,1 @@
-I am trying build a project..
+I am trying to build a project..
